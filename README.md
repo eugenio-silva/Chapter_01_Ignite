@@ -1,7 +1,5 @@
 ## Chapter_01 - Ignite
 
----
-
 ### Sobre
 
 O Ignite é o novo Bootcamp da Rocketseat. Nesse Primeiro capítulo é abordado os conceitos iniciais de React.js as configurações do Babel e Webpack.
