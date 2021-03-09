@@ -1,8 +1,8 @@
-## Chapter_01 - Ignite
+## Chapter_01 - Ignite - Trilha React
 
 ### Sobre
 
-O Ignite é o novo Bootcamp da Rocketseat. Nesse Primeiro capítulo é abordado os conceitos iniciais de React.js as configurações do Babel e Webpack.
+O Ignite é o novo Bootcamp da Rocketseat, é dividido em trilhas. E essa é a trilha React. Nesse Primeiro capítulo é abordado os conceitos iniciais de React.js as configurações do Babel e Webpack.
 
 Também é incluído o uso de Typescript.
 
