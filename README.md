@@ -16,6 +16,8 @@ Também é incluído o uso de Typescript.
 - [Babel]()
 - [Webpack]()
 
+---
+
 ### Como baixar
 
 ```bash
